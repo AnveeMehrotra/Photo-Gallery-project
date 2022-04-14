@@ -1,0 +1,21 @@
+#myNavbar{
+    background-color:black;
+}
+#dirt_block{
+    height:230;
+    width:230;
+    margin-right:100px;
+    
+}
+
+#myCarousel img{
+    height:400px;
+}
+h3{
+    color:black;
+    font-size:25px;
+}
+
+body{
+    text-align: center;
+}
